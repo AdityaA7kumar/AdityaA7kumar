@@ -1,4 +1,6 @@
 ### Hi there 👋
+hello im aditya 
+today is my first day of working on Github
 
 <!--
 **AdityaA7kumar/AdityaA7kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
