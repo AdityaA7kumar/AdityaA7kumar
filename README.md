@@ -1,5 +1,5 @@
 ### Hi there 👋
-hello im aditya
+Hello im aditya
 <br>
 today is my first day of working on Github
 
